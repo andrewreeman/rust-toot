@@ -1,1 +1,7 @@
+# ignore rust build
 **/target/
+
+# ignore vim files
+*.swp
+*.swo
+*~
