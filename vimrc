@@ -142,6 +142,7 @@ nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)
 nmap <silent> gi <Plug>(coc-implementation)
 nmap <silent> gr <Plug>(coc-references)
+nmap <F2> <Plug>(coc-rename)
 " Finish coc
 
 " Attempt to determine the type of a file based on its name and possibly its
